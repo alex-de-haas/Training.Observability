@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Training.Observability.ApiService.props" />
+</Project>

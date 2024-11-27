@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "yvaJpkkqxp2NXnAAZPy2iqLgaiucFm65mQxgk4j7Z2o=",
+  "Source": "Training.Observability.ApiService",
+  "BasePath": "_content/Training.Observability.ApiService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

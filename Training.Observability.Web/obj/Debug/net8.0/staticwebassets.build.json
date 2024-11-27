@@ -1,0 +1,640 @@
+{
+  "Version": 1,
+  "Hash": "r88lLim53AzND2JLWM6L5wqfPMfm+8ZFb/GfecK3u+o=",
+  "Source": "Training.Observability.Web",
+  "BasePath": "_content/Training.Observability.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Training.Observability.Web\\wwwroot",
+      "Source": "Training.Observability.Web",
+      "ContentRoot": "D:\\source\\Training\\Training.Observability\\Training.Observability.Web\\wwwroot\\",
+      "BasePath": "_content/Training.Observability.Web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\source\\Training\\Training.Observability\\Training.Observability.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Training.Observability.Web.styles.css",
+      "SourceId": "Training.Observability.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\source\\Training\\Training.Observability\\Training.Observability.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/Training.Observability.Web",
+      "RelativePath": "Training.Observability.Web#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "jwlbqycwir",
+      "Integrity": "XdqIYj+gZ6j+ULo3iyVGS8ouS1WaGdcLiXs0wnzs5vw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\source\\Training\\Training.Observability\\Training.Observability.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Training.Observability.Web.styles.css"
+    },
+    {
+      "Identity": "D:\\source\\Training\\Training.Observability\\Training.Observability.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Training.Observability.Web.bundle.scp.css",
+      "SourceId": "Training.Observability.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\source\\Training\\Training.Observability\\Training.Observability.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/Training.Observability.Web",
+      "RelativePath": "Training.Observability.Web#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "jwlbqycwir",
+      "Integrity": "XdqIYj+gZ6j+ULo3iyVGS8ouS1WaGdcLiXs0wnzs5vw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\source\\Training\\Training.Observability\\Training.Observability.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Training.Observability.Web.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\source\\Training\\Training.Observability\\Training.Observability.Web\\wwwroot\\app.css",
+      "SourceId": "Training.Observability.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\source\\Training\\Training.Observability\\Training.Observability.Web\\wwwroot\\",
+      "BasePath": "_content/Training.Observability.Web",
+      "RelativePath": "app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3kedzhdxwv",
+      "Integrity": "DX6KVmha3+mwW230tvk/pCnw4GgrMMCRHlW6LF/X+qU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    },
+    {
+      "Identity": "D:\\source\\Training\\Training.Observability\\Training.Observability.Web\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "SourceId": "Training.Observability.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\source\\Training\\Training.Observability\\Training.Observability.Web\\wwwroot\\",
+      "BasePath": "_content/Training.Observability.Web",
+      "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6gzpyzhau4",
+      "Integrity": "SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "D:\\source\\Training\\Training.Observability\\Training.Observability.Web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "Training.Observability.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\source\\Training\\Training.Observability\\Training.Observability.Web\\wwwroot\\",
+      "BasePath": "_content/Training.Observability.Web",
+      "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "D:\\source\\Training\\Training.Observability\\Training.Observability.Web\\wwwroot\\favicon.png",
+      "SourceId": "Training.Observability.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\source\\Training\\Training.Observability\\Training.Observability.Web\\wwwroot\\",
+      "BasePath": "_content/Training.Observability.Web",
+      "RelativePath": "favicon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ifv42okdf2",
+      "Integrity": "4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "app.3kedzhdxwv.css",
+      "AssetFile": "D:\\source\\Training\\Training.Observability\\Training.Observability.Web\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2514"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DX6KVmha3+mwW230tvk/pCnw4GgrMMCRHlW6LF/X+qU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 Aug 2024 12:59:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3kedzhdxwv"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DX6KVmha3+mwW230tvk/pCnw4GgrMMCRHlW6LF/X+qU="
+        }
+      ]
+    },
+    {
+      "Route": "app.css",
+      "AssetFile": "D:\\source\\Training\\Training.Observability\\Training.Observability.Web\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2514"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DX6KVmha3+mwW230tvk/pCnw4GgrMMCRHlW6LF/X+qU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 Aug 2024 12:59:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DX6KVmha3+mwW230tvk/pCnw4GgrMMCRHlW6LF/X+qU="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "D:\\source\\Training\\Training.Observability\\Training.Observability.Web\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 Aug 2024 12:59:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css",
+      "AssetFile": "D:\\source\\Training\\Training.Observability\\Training.Observability.Web\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 Aug 2024 12:59:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "D:\\source\\Training\\Training.Observability\\Training.Observability.Web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 Aug 2024 12:59:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.map",
+      "AssetFile": "D:\\source\\Training\\Training.Observability\\Training.Observability.Web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 Aug 2024 12:59:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ifv42okdf2.png",
+      "AssetFile": "D:\\source\\Training\\Training.Observability\\Training.Observability.Web\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 Aug 2024 12:59:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ifv42okdf2"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.png",
+      "AssetFile": "D:\\source\\Training\\Training.Observability\\Training.Observability.Web\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 Aug 2024 12:59:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "Training.Observability.Web.bundle.scp.css",
+      "AssetFile": "D:\\source\\Training\\Training.Observability\\Training.Observability.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Training.Observability.Web.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5820"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XdqIYj+gZ6j+ULo3iyVGS8ouS1WaGdcLiXs0wnzs5vw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 Aug 2024 15:46:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XdqIYj+gZ6j+ULo3iyVGS8ouS1WaGdcLiXs0wnzs5vw="
+        }
+      ]
+    },
+    {
+      "Route": "Training.Observability.Web.jwlbqycwir.bundle.scp.css",
+      "AssetFile": "D:\\source\\Training\\Training.Observability\\Training.Observability.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Training.Observability.Web.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5820"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XdqIYj+gZ6j+ULo3iyVGS8ouS1WaGdcLiXs0wnzs5vw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 Aug 2024 15:46:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jwlbqycwir"
+        },
+        {
+          "Name": "label",
+          "Value": "Training.Observability.Web.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XdqIYj+gZ6j+ULo3iyVGS8ouS1WaGdcLiXs0wnzs5vw="
+        }
+      ]
+    },
+    {
+      "Route": "Training.Observability.Web.jwlbqycwir.styles.css",
+      "AssetFile": "D:\\source\\Training\\Training.Observability\\Training.Observability.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Training.Observability.Web.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5820"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XdqIYj+gZ6j+ULo3iyVGS8ouS1WaGdcLiXs0wnzs5vw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 Aug 2024 15:46:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jwlbqycwir"
+        },
+        {
+          "Name": "label",
+          "Value": "Training.Observability.Web.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XdqIYj+gZ6j+ULo3iyVGS8ouS1WaGdcLiXs0wnzs5vw="
+        }
+      ]
+    },
+    {
+      "Route": "Training.Observability.Web.styles.css",
+      "AssetFile": "D:\\source\\Training\\Training.Observability\\Training.Observability.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Training.Observability.Web.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5820"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XdqIYj+gZ6j+ULo3iyVGS8ouS1WaGdcLiXs0wnzs5vw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 Aug 2024 15:46:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XdqIYj+gZ6j+ULo3iyVGS8ouS1WaGdcLiXs0wnzs5vw="
+        }
+      ]
+    }
+  ]
+}

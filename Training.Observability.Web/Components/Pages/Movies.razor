@@ -1,0 +1,61 @@
+﻿@page "/movies"
+@attribute [StreamRendering(true)]
+@attribute [OutputCache(Duration = 5)]
+
+@inject TMDbApiClient Client
+@rendermode InteractiveServer
+
+<PageTitle>Movies Search</PageTitle>
+
+<div>
+    <InputText @bind-Value="query" />
+    <button type="button" @onclick="SearchAsync">Search</button>
+    <table class="table">
+        <thead>
+            <tr>
+                <th></th>
+                <th>Release Date</th>
+                <th>Title</th>
+                <th>Overview</th>
+                <th>Rating</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (movies == null)
+            {
+                <tr><td colspan="2">Enter query and press "Search" button.</td></tr>
+            }
+            else if (movies.Length == 0)
+            {
+                <tr><td colspan="2">No movies found.</td></tr>
+            }
+            else
+            {
+                foreach (var movie in movies)
+                {
+                    <tr>
+                        <td><img src="@("https://image.tmdb.org/t/p/original/" + movie.PosterPath)" width="100" /></td>
+                        <td>@movie.ReleaseDate?.ToShortDateString()</td>
+                        <td><b>@movie.Title</b><br />@movie.OriginalTitle</td>
+                        <td>@movie.Overview</td>
+                        <td>@movie.VoteAverage (@movie.VoteCount)</td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>
+
+@code {
+    private Movie[]? movies;
+
+    private string query { get; set; } = "";
+
+    private async Task SearchAsync()
+    {
+        if (query != null && query.Length > 3)
+            movies = await Client.SearchMoviesAsync(query);
+        else
+            movies = null;
+    }
+}

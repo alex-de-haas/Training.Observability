@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\source\\Training\\Training.Observability\\Training.Observability.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Training.Observability.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Training.Observability.Web.jwlbqycwir.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\source\\Training\\Training.Observability\\Training.Observability.Web\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\source\\Training\\Training.Observability\\Training.Observability.Web\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\source\\Training\\Training.Observability\\Training.Observability.Web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\source\\Training\\Training.Observability\\Training.Observability.Web\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Training.Observability.Web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Training.Observability.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Training.Observability.Web.props",
+      "PackagePath": "build\\Training.Observability.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Training.Observability.Web.props",
+      "PackagePath": "buildMultiTargeting\\Training.Observability.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Training.Observability.Web.props",
+      "PackagePath": "buildTransitive\\Training.Observability.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

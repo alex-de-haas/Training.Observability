@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "9yFpFYO4cS4=",
+  "success": false,
+  "projectFilePath": "D:\\source\\Training\\Training.Observability\\Training.Observability.AppHost\\Training.Observability.AppHost.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\' doesn't exist.",
+      "libraryId": "Aspire.Dashboard.Sdk.win-x64"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\' doesn't exist.",
+      "libraryId": "Aspire.Hosting.Orchestration.win-x64"
+    }
+  ]
+}

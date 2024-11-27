@@ -1,0 +1,12 @@
+D:\source\Training\Training.Observability\Training.Observability.ServiceDefaults\bin\Debug\net8.0\Training.Observability.ServiceDefaults.deps.json
+D:\source\Training\Training.Observability\Training.Observability.ServiceDefaults\bin\Debug\net8.0\Training.Observability.ServiceDefaults.dll
+D:\source\Training\Training.Observability\Training.Observability.ServiceDefaults\bin\Debug\net8.0\Training.Observability.ServiceDefaults.pdb
+D:\source\Training\Training.Observability\Training.Observability.ServiceDefaults\obj\Debug\net8.0\Training.Observability.ServiceDefaults.csproj.AssemblyReference.cache
+D:\source\Training\Training.Observability\Training.Observability.ServiceDefaults\obj\Debug\net8.0\Training.Observability.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\Training\Training.Observability\Training.Observability.ServiceDefaults\obj\Debug\net8.0\Training.Observability.ServiceDefaults.AssemblyInfoInputs.cache
+D:\source\Training\Training.Observability\Training.Observability.ServiceDefaults\obj\Debug\net8.0\Training.Observability.ServiceDefaults.AssemblyInfo.cs
+D:\source\Training\Training.Observability\Training.Observability.ServiceDefaults\obj\Debug\net8.0\Training.Observability.ServiceDefaults.csproj.CoreCompileInputs.cache
+D:\source\Training\Training.Observability\Training.Observability.ServiceDefaults\obj\Debug\net8.0\Training.Observability.ServiceDefaults.dll
+D:\source\Training\Training.Observability\Training.Observability.ServiceDefaults\obj\Debug\net8.0\refint\Training.Observability.ServiceDefaults.dll
+D:\source\Training\Training.Observability\Training.Observability.ServiceDefaults\obj\Debug\net8.0\Training.Observability.ServiceDefaults.pdb
+D:\source\Training\Training.Observability\Training.Observability.ServiceDefaults\obj\Debug\net8.0\ref\Training.Observability.ServiceDefaults.dll

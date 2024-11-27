@@ -1,0 +1,113 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Aspire.Dashboard.Sdk.win-x64 >= 8.2.2",
+      "Aspire.Hosting.AppHost >= 8.1.0",
+      "Aspire.Hosting.Orchestration.win-x64 >= 8.2.2",
+      "Aspire.Hosting.Seq >= 8.1.0"
+    ]
+  },
+  "packageFolders": {
+    "D:\\.nuget\\packages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\source\\Training\\Training.Observability\\Training.Observability.AppHost\\Training.Observability.AppHost.csproj",
+      "projectName": "Training.Observability.AppHost",
+      "projectPath": "D:\\source\\Training\\Training.Observability\\Training.Observability.AppHost\\Training.Observability.AppHost.csproj",
+      "packagesPath": "D:\\.nuget\\packages",
+      "outputPath": "D:\\source\\Training\\Training.Observability\\Training.Observability.AppHost\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\azaya\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/rmtsoft/_packaging/Workx/nuget/v3/index.json": {},
+        "https://pkgs.dev.azure.com/rmtsoft/_packaging/storage/nuget/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "Aspire.Dashboard.Sdk.win-x64": {
+            "target": "Package",
+            "version": "[8.2.2, )",
+            "autoReferenced": true
+          },
+          "Aspire.Hosting.AppHost": {
+            "target": "Package",
+            "version": "[8.1.0, )"
+          },
+          "Aspire.Hosting.Orchestration.win-x64": {
+            "target": "Package",
+            "version": "[8.2.2, )",
+            "autoReferenced": true
+          },
+          "Aspire.Hosting.Seq": {
+            "target": "Package",
+            "version": "[8.1.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\' doesn't exist.",
+      "libraryId": "Aspire.Dashboard.Sdk.win-x64"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\' doesn't exist.",
+      "libraryId": "Aspire.Hosting.Orchestration.win-x64"
+    }
+  ]
+}
